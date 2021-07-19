@@ -13,3 +13,8 @@
 
 - Criado comandos
 - Configurado pra que quando a cobra sair dos limites do nosso jogo, ela voltar pelo outro lado.
+
+## Quarta aula
+
+- Criado comida
+- Randomizado posição dela

@@ -39,6 +39,14 @@ function update(event) {
   if (event.keyCode == 38 && direction != 'down') direction = 'up'
   if (event.keyCode == 39 && direction != 'left') direction = 'right'
   if (event.keyCode == 40 && direction != 'up') direction = 'down'
+  // W
+  if (event.keyCode == 87 && direction != 'down') direction = 'up'
+  // A
+  if (event.keyCode == 65 && direction != 'right') direction = 'left'
+  // D
+  if (event.keyCode == 68 && direction != 'left') direction = 'right'
+  // S
+  if (event.keyCode == 83 && direction != 'up') direction = 'down'
 }
 
 function iniciarJogo() {

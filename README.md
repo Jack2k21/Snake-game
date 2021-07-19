@@ -31,3 +31,6 @@
 ## Setima Aula
  
  - Ajustado estilo da pagina
+
+### Bonus
+ - Configurado WASD para mover a cobra

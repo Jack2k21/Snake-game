@@ -11,4 +11,5 @@
 
 ## Terceira aula
 
-- 
+- Criado comandos
+- Configurado pra que quando a cobra sair dos limites do nosso jogo, ela voltar pelo outro lado.

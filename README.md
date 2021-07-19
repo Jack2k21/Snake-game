@@ -22,3 +22,8 @@
 ## Quinta aula
 
 - Criado condicional onde quando come a fruta ela some e nasce em outro lugar e adiciona mais um espaço na cobra
+
+## Sexta aula
+
+- Feito colisão da cobra
+- Game over

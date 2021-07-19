@@ -27,3 +27,7 @@
 
 - Feito colisão da cobra
 - Game over
+
+## Setima Aula
+ 
+ - Ajustado estilo da pagina

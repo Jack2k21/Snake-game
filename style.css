@@ -1,0 +1,18 @@
+body {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: rgba(2, 53, 2, 0.746);
+  background-color: rgba(10, 124, 200, 0.678);
+}
+
+h1 {
+  margin-bottom: 60px;
+}
+
+canvas {
+  border: black solid 2px;
+}

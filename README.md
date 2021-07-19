@@ -4,3 +4,7 @@
 
 - Criado background
 - criado cobra
+
+## Segunda aula
+
+- Movimento primário
